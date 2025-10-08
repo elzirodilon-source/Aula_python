@@ -1,0 +1,4 @@
+import os
+os.system ('cls')
+mensagem= "é preciso fazer todos os algoritimos para aprender"
+print(mensagem)

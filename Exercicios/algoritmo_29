@@ -1,0 +1,5 @@
+import os
+os.system('cls')
+
+nome = "Elzir Odilon"
+print(nome)
